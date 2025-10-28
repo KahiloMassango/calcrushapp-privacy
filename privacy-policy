@@ -1,33 +1,49 @@
-Privacy Policy
-
 1. Information We Collect
 
-No personal information: We do not collect names, emails, addresses, or any personal identifiers.
+No personal information:
+We do not collect names, emails, addresses, or any personally identifiable information.
 
-Anonymous analytics: We collect analytics data to understand how the app is used (e.g., which game modes are played). Analytics data does not identify individual users.
+Anonymous analytics:
+We use Google Firebase Analytics to understand how users interact with the app (for example, which game modes are played or how long sessions last).
+This data is collected in an anonymized form and does not identify individual users.
 
-User feedback: If you choose to send feedback, it will be stored anonymously.
+Crash reports:
+We use Firebase Crashlytics to identify and fix technical issues. Crash data may include non-personal device information such as device type, operating system version, and app version.
 
-3. Data Sharing
+User feedback (optional):
+If you choose to provide feedback, it is stored anonymously and used only to improve the app.
 
-We do not share any collected data with third parties for marketing or advertising.
+2. Data Sharing
 
-Data collected is only used to improve the app.
+We do not share collected data with any third parties for marketing or advertising purposes.
+Analytics and crash data are processed by Google Firebase in accordance with Google’s Privacy Policy
+.
 
-4. Ads & Purchases
+3. Ads & Purchases
 
 The app does not include ads.
 
 The app does not include in-app purchases.
 
-5. Device Permissions
+4. Device Permissions
 
-The app does not request access to your device’s camera, microphone, location, or storage.
+This app does not request access to your camera, microphone, location, contacts, or storage.
 
-6. Data Security
+5. Data Security
 
-All analytics and feedback data is stored securely.
+All analytics and feedback data are transmitted securely and stored using trusted third-party services (Firebase).
+We take reasonable measures to protect your information from unauthorized access or disclosure.
 
-7. Changes to this Policy
+6. Play Games Services
 
-We may update this Privacy Policy from time to time. Updates will be reflected in this section.
+If you sign in with Google Play Games, Google may collect certain user data as part of its own service.
+Please review Google Play Games Privacy Policy
+ for more details.
+
+7. Changes to This Policy
+
+We may update this Privacy Policy periodically. Any updates will be reflected in this section with a revised date.
+
+8. Contact
+
+If you have questions about this Privacy Policy, you can contact us at: kahilomassango@gmail.com
